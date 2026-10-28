@@ -5,14 +5,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin1yadav&label=Profile%20views&color=0e75b6&style=flat" alt="sachin1yadav" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
-
-- 👨‍💻 All of my projects are available at [https://sachin1yadav.github.io/](https://sachin1yadav.github.io/)
-
-- 📫 How to reach me **sy9084087@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/180DeCPDUcA8iz30nam0waEoJQE64FWQY/view?usp=sharing](https://drive.google.com/file/d/180DeCPDUcA8iz30nam0waEoJQE64FWQY/view?usp=sharing)
-
+-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sachin-yadav-a5512523a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachin-yadav-a5512523a/" height="30" width="40" /></a>
